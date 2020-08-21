@@ -1,13 +1,32 @@
 {
   "cats": [
     {
-      "name": "Pętelka"
+      "id": 1,
+      "name": "Pętelka",
+      "photos": [
+        "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+      ]
     },
     {
-      "name": "Obiekcik"
+      "id": 2,
+      "name": "Obiekcik",
+      "photos": [
+        "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+      ]
     },
     {
-      "name": "Apisik"
+      "id": 3,
+      "name": "Codersik",
+      "photos": [
+        "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ściągacz",
+      "photos": [
+        "https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif"
+      ]
     }
   ]
 }
