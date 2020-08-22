@@ -4,28 +4,32 @@
       "id": 1,
       "name": "Pętelka",
       "photos": [
-        "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+        "https://loremflickr.com/cache/resized/65535_49892676183_6ab2c8158c_n_320_240_nofilter.jpg",
+        "https://loremflickr.com/cache/resized/65535_49975195041_d1ba62b8cc_h_400_600_nofilter.jpg",
+        "https://loremflickr.com/cache/resized/65535_50125639181_1c2c9593bc_h_800_800_nofilter.jpg"
       ]
     },
     {
       "id": 2,
       "name": "Obiekcik",
       "photos": [
-        "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+        "https://loremflickr.com/cache/resized/65535_49920492417_2f7acd2a58_400_400_nofilter.jpg"
       ]
     },
     {
       "id": 3,
       "name": "Codersik",
       "photos": [
-        "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"
+        "https://loremflickr.com/cache/resized/65535_49901026951_5615027c91_b_800_600_nofilter.jpg",
+        "https://loremflickr.com/cache/resized/65535_50126718902_aeb9bf451e_z_600_400_nofilter.jpg"
       ]
     },
     {
       "id": 4,
       "name": "Ściągacz",
       "photos": [
-        "https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif"
+        "https://loremflickr.com/cache/resized/65535_49975806796_df74ec0b62_h_600_600_nofilter.jpg",
+        "https://loremflickr.com/cache/resized/65535_49845303721_80df43c416_200_300_nofilter.jpg
       ]
     }
   ]
